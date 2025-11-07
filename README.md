@@ -20,7 +20,7 @@ This project loads the Titanic dataset, cleans missing data, and summarizes it u
 
 3. Run all cells to see the cleaning process.
 
-Requirements
+Requirements:
 
 - Python 3.x
 
@@ -28,6 +28,6 @@ Requirements
 
 - numpy
 
-Author
+Author:
 
 Abdifitah Mohamed

@@ -16,3 +16,17 @@ This project loads the Titanic dataset, cleans missing data, and summarizes it u
 1. Clone this repository:
    ```bash
    git clone https://github.com/abdifatah10101/titanic-data-cleaning.git
+2. Open the Jupyter Notebook file (notebook70eff89796.ipynb).
+
+3. Run all cells to see the cleaning process.
+
+Requirements
+. Python 3.x
+
+. pandas
+
+. numpy
+
+Author
+
+Abdifitah Mohamed

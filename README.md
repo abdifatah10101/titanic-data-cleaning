@@ -21,6 +21,7 @@ This project loads the Titanic dataset, cleans missing data, and summarizes it u
 3. Run all cells to see the cleaning process.
 
 Requirements
+
 . Python 3.x
 
 . pandas

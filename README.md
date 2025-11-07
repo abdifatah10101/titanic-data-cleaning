@@ -22,11 +22,11 @@ This project loads the Titanic dataset, cleans missing data, and summarizes it u
 
 Requirements
 
-. Python 3.x
+- Python 3.x
 
-. pandas
+- pandas
 
-. numpy
+- numpy
 
 Author
 
